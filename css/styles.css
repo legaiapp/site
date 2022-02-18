@@ -316,7 +316,7 @@ caption {
 th {
   text-align: inherit;
   text-align: -webkit-match-parent;
-}
+ }
 
 thead,
 tbody,
@@ -11379,3 +11379,8 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+#logos {
+  background-color: red !important;
+}
+
