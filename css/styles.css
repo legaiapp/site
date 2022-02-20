@@ -11381,6 +11381,6 @@ footer.footer {
 }
 
 #logos {
-  background-color: red !important;
+  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
