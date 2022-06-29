@@ -64,6 +64,10 @@
   --bs-body-bg: #fff;
 }
 
+.product-link {
+    color: white;
+}
+
 *,
 *::before,
 *::after {
